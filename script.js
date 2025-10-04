@@ -23,6 +23,6 @@ img.setAttribute("alt", "Foto de Pedro Rezende com 16 anos  de terno sorrindo")
 }else{
     
     img.setAttribute("src", "./assets/avatar-light.png")
-    img.setAttribute("alt", "Foto de Pedro Rezende pequeno e confuso enquanto estuda")
+    img.setAttribute("alt", "Foto de Pedro Rezende de óculos e com moletom verde")
  }
 }
