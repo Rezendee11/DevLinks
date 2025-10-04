@@ -50,6 +50,7 @@ body * {
 
 #profile img {
   width: 112px;
+  height: 112px;
   /*display: block;
     margin: auto;  Exemplo de forma de usar o display: block para centralizar a imagem*/
 }
